@@ -23,3 +23,5 @@ Once the model was trained and evaluated, I serialized the model and vectorizer 
 To run the app, I used the command streamlit run spam_app.py in the terminal. The app opened in a browser and successfully allowed real-time testing of the spam classifier. Throughout the project, I also handled potential issues like missing data,warnings related to metrics in scikit-learn, and ensured a clean separation between model training and deployment. This task showcased a full machine learning workflow—from data preprocessing and model training to model evaluation, serialization, and front-end deployment using Streamlit. It provided practical experience in building a functional ML pipeline, aligning with real-world applications where model performance and usability are both crucial. This project is a significant step in my journey toward mastering applied machine learning and deploying intelligent applications.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ea674e11-c1e2-4903-becf-0fba829e47a6)
