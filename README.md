@@ -24,4 +24,4 @@ To run the app, I used the command streamlit run spam_app.py in the terminal. Th
 
 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/ea674e11-c1e2-4903-becf-0fba829e47a6)
+![Image](https://github.com/user-attachments/assets/9d8f8211-8c84-4c1c-8321-d857f3fc47e6)
